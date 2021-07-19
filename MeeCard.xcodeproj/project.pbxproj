@@ -14,6 +14,7 @@
 		F2206F5F26A6052C00AEE46C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2206F5E26A6052C00AEE46C /* Preview Assets.xcassets */; };
 		F2206F6226A6052C00AEE46C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2206F6026A6052C00AEE46C /* LaunchScreen.storyboard */; };
 		F2206F6B26A60A3100AEE46C /* Yomogi-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F2206F6A26A60A3100AEE46C /* Yomogi-Regular.ttf */; };
+		F2206F6F26A61C5000AEE46C /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2206F6E26A61C5000AEE46C /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F2206F6126A6052C00AEE46C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2206F6326A6052C00AEE46C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2206F6A26A60A3100AEE46C /* Yomogi-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Yomogi-Regular.ttf"; sourceTree = "<group>"; };
+		F2206F6E26A61C5000AEE46C /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F2206F5526A6052600AEE46C /* AppDelegate.swift */,
 				F2206F5726A6052600AEE46C /* SceneDelegate.swift */,
 				F2206F5926A6052600AEE46C /* ContentView.swift */,
+				F2206F6E26A61C5000AEE46C /* InfoView.swift */,
 				F2206F5B26A6052C00AEE46C /* Assets.xcassets */,
 				F2206F6026A6052C00AEE46C /* LaunchScreen.storyboard */,
 				F2206F6326A6052C00AEE46C /* Info.plist */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2206F6F26A61C5000AEE46C /* InfoView.swift in Sources */,
 				F2206F5626A6052600AEE46C /* AppDelegate.swift in Sources */,
 				F2206F5826A6052600AEE46C /* SceneDelegate.swift in Sources */,
 				F2206F5A26A6052600AEE46C /* ContentView.swift in Sources */,
